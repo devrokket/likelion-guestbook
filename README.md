@@ -2,6 +2,8 @@
 
 ### API spec
 
+<img width="708" alt="toy-api" src="https://github.com/devrokket/likelion-guestbook/assets/96538554/f50340a4-3320-4f83-8f4c-668980e9cec5">
+
 [API](https://www.notion.so/0d1d536a278f4183bc2fa44c75b7472f)
 
 ### 연결 도메인
