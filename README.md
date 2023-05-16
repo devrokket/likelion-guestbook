@@ -6,7 +6,7 @@
 
 ### 연결 도메인
 
-[](http://bangmyeonglock.kro.kr:8000/posts/)
+[Domain Address](http://bangmyeonglock.kro.kr:8000/posts/)
 
 ### ERD 모델
 
