@@ -2,7 +2,7 @@
 
 ### API spec
 
-[API](https://www.notion.so/0d1d536a278f4183bc2fa44c75b7472f)
+[API](https://www.notion.so/0d1d536a278f4183bfc2fa44c75b7472f)
 
 ### 연결 도메인
 
