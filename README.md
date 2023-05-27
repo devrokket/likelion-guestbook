@@ -1,5 +1,7 @@
 # 방명록 만들기 토이 프로젝트
 
+http://likelion-guestbook.kro.kr/
+
 ### API spec
 
 <img width="708" alt="toy-api" src="https://github.com/devrokket/likelion-guestbook/assets/96538554/f50340a4-3320-4f83-8f4c-668980e9cec5">
